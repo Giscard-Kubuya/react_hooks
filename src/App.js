@@ -1,10 +1,9 @@
-import logo from './logo.svg';
+import StateReducer from './StateReducer';
 import './App.css';
-
 function App() {
   return (
-    <div>
-      Hello world
+    <div className='App'>
+      <StateReducer/>
     </div>
   );
 }
