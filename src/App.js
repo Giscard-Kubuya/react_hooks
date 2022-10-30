@@ -1,4 +1,4 @@
-import StateReducer from './StateReducer';
+import StateReducer from './EffectState';
 import './App.css';
 function App() {
   return (
